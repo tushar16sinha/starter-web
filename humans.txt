@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Tusha sinha tusharsinha39@gmailcom
 # THANKS
 
     <name>
