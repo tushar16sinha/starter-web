@@ -12,6 +12,7 @@ sdfsdfsdfsdf
 sdfsdfsdfsdfsdfsdfsdf
 gssdpfgomfg
 sgsgs
+Please fork this repository and then issue pull request for review"
 
 ##COPYRIGHT\
 Copyright @2018
