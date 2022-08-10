@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+Copyright @2017 sksk
+<head>
+<<<<<<< HEAD
+	<title>A  Very respectful Website</title>
+=======
+	<title>A Great Website</title>
+>>>>>>> realwork
+	<link rel="stddddylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			I`m Not sue what will go here, but i m sure it willbe nice
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Tushar Sinha 2014</p>
+=======
+			Some interesting stuff goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; GIT Training 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
