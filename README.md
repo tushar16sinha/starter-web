@@ -12,3 +12,6 @@ sdfsdfsdfsdf
 sdfsdfsdfsdfsdfsdfsdf
 gssdpfgomfg
 sgsgs
+
+##COPYRIGHT\
+Copyright @2018
